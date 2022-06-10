@@ -38,7 +38,6 @@ $ go run main.go
 
 ### หมายเหตุ
 ห้ามแก้ไขโค้ดเดิม ยกเว้น
-* [/main.go](main.go)
 * [/service/product.go](service/product.go)
 
 แต่คุณสามารถเพิ่มฟังก์ชันใหม่ หรือ class ใหม่ได้ตามความต้องการ
