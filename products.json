@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Earthen Bottle",
+        "price": 35.00,
+        "image_url": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-01.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Nomad Tumbler",
+        "price": 48.00,
+        "image_url": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-02.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Focus Paper Refill",
+        "price": 39.00,
+        "image_url": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-03.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Machined Mechanical Pencil",
+        "price": 34.00,
+        "image_url": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-04.jpg"
+    }
+]
